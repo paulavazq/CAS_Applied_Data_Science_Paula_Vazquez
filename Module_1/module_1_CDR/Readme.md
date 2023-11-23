@@ -1,0 +1,2 @@
+This folder contains the text files  describing the conceptual design for a data science project. The project aims to find norvel biomarkers for  prostate cancer and breast cancer by applyign machine learning algorithms in RNAseq data retrived from the Cancer Atlas data base. 
+The DataMiner_main subfolder  contains the retrived RNAseq data that will be used for the project and the python script used to retrieve the data. The bibliography folder bears the  puplications cited in the CDR  or related to the project design.
